@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratiksha-Danake
-- 👀 I’m interested in coding,
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning Java,android.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- https://www.linkedin.com/in/pratiksha-danake-090807201
